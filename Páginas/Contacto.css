@@ -1,0 +1,53 @@
+
+
+
+
+body {
+    background-color:bisque;
+
+
+
+}
+
+
+#contacto{
+    display: flex;
+    margin-left: 50%;
+
+
+
+}
+
+#comentarios{
+    display: block;
+    width: 300px;
+    height: 150px;
+    position: relative;
+    left: 150px;
+
+}
+
+form.caja{
+position: relative;
+left: 35%;
+
+}
+
+h1.datos1{
+position: relative;
+left: 170px;
+
+}
+
+#enviar{
+    position: relative;
+    left: 15%;
+
+}
+
+h2.h2{
+    text-align: center;
+
+
+}
+
