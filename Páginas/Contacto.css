@@ -12,7 +12,7 @@ body {
 
 #contacto{
     display: flex;
-    margin-left: 50%;
+    margin-left: 47%;
 
 
 
@@ -29,13 +29,13 @@ body {
 
 form.caja{
 position: relative;
-left: 35%;
+left: 32%;
 
 }
 
 h1.datos1{
 position: relative;
-left: 170px;
+left: 8%;
 
 }
 
