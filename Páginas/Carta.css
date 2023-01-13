@@ -6,13 +6,13 @@ body {
 
 }
 
-#titlelacarta {
+h1.titlelacarta {
     color: brown;
     display: flex;
     margin-left: 45%;
 }
 
-.entradamenu {
+p.entradamenu {
     color: brown;
     font-weight: 300;
 

@@ -12,7 +12,7 @@ body {
     min-width: 150px;
 }
 
-p {
+p.p1 {
     color: rgb(196, 36, 36);
     display: flex;
     max-width: 1300px;
