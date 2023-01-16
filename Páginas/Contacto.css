@@ -23,13 +23,13 @@ body {
     width: 300px;
     height: 150px;
     position: relative;
-    left: 150px;
+    left: 165px;
 
 }
 
 form.caja{
 position: relative;
-left: 32%;
+left: 35%;
 
 }
 
@@ -41,7 +41,7 @@ left: 8%;
 
 #enviar{
     position: relative;
-    left: 15%;
+    left: 13.7%;
 
 }
 
@@ -50,4 +50,8 @@ h2.h2{
 
 
 }
+
+
+
+
 
